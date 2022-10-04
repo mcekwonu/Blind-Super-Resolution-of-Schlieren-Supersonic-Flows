@@ -15,7 +15,8 @@ for_paper/
 experiment/
 finetune_images/
 
-ESRGAN_x4/training_logs/*
-ESRGAN_x8/training_logs/*
-RealESRGAN_x4/training_logs/*
-RealESRGAN_x8/training_logs/*
+ESRGAN_x4/training_logs/
+ESRGAN_x8/training_logs/
+ESRGAN_x8/src/net_interp.py
+RealESRGAN_x4/training_logs/
+RealESRGAN_x8/training_logs/
