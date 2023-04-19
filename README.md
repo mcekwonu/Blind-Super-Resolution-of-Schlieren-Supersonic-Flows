@@ -9,7 +9,9 @@ Super resolution of low spatial resolution of schlieren imaging of supersonic fr
 High resolution and low resolution training datasets are obtained from Bubble shadowgraphy imaging of bubbly jet and used to train the ESRGAN and RealESRGAN networks.
 
 # Citation in Publication:
-```latex
+
 * Michael Chukwuemeka Ekwonu, Shujun Zhang, Binqi Chen,  Xin Peng, Dong Kim. Super-resolution reconstruction of schlieren images of supersonic free jets based on machine learning with bubble shadowgraphy data, Journal of Visualization, 2023
+
+```latex
 
 ```
