@@ -10,8 +10,7 @@ High resolution and low resolution training datasets are obtained from Bubble sh
 
 # Citation in Publication:
 
-* Michael Chukwuemeka Ekwonu, Shujun Zhang, Binqi Chen,  Xin Peng, Dong Kim. Super-resolution reconstruction of schlieren images of supersonic free jets based on machine learning with bubble shadowgraphy data, Journal of Visualization, 2023
-
+* Michael Chukwuemeka Ekwonu, Shujun Zhang, Binqi Chen,  Xin Peng, Dong Kim. Super-resolution reconstruction of schlieren images of supersonic free jets based on machine learning with bubble shadowgraphy data. J Vis (2023). https://doi.org/10.1007/s12650-023-00926-2
 ```latex
 
 ```
