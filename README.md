@@ -11,8 +11,8 @@ High resolution and low resolution training datasets are obtained from Bubble sh
 **You can now accessed the pre-trained weights and download it using the links below:** 
 * ESRGAN x4: https://drive.google.com/uc?export=download&id=1eekSpOpnhXTjSAUmQgKjwpMKopfGgYSb
 * ESRGAN x8: https://drive.google.com/uc?export=download&id=1kqHDCaPoEgo5Ry6ScHvZkj-Mc8aVhJst
-* RealESRNet x4: https://drive.google.com/uc?export=download&id=13Mbg9GTfVngy2vHdYpvhWPIZt1z6vSha
-* RealESRNet x8: https://drive.google.com/uc?export=download&id=1THIjS99LMkLT9sz03axTog6wZSUcDC6l
+* RealESRGAN x4: https://drive.google.com/uc?export=download&id=13Mbg9GTfVngy2vHdYpvhWPIZt1z6vSha
+* RealESRGAN x8: https://drive.google.com/uc?export=download&id=1THIjS99LMkLT9sz03axTog6wZSUcDC6l
 
 
 # Citation in Publication:
