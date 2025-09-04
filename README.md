@@ -21,3 +21,6 @@ High resolution and low resolution training datasets are obtained from Bubble sh
 ```latex
 
 ```
+* M.C. Neves, J. Filgueiras, Z. Kokkinogenis, M.C.F. Silva, J.B.L.M. Campos, L.P. Reis,
+Enhancing experimental image quality in two-phase bubbly systems with super-resolution using generative adversarial networks,
+International Journal of Multiphase Flow, Volume 180, 2024, 104952, https://doi.org/10.1016/j.ijmultiphaseflow.2024.104952.
