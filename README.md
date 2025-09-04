@@ -8,7 +8,12 @@ Super resolution of low spatial resolution of schlieren imaging of supersonic fr
 
 High resolution and low resolution training datasets are obtained from Bubble shadowgraphy imaging of bubbly jet and used to train the ESRGAN and RealESRGAN networks.
 
-**You can now accessed the pre-trained weights and download it using this link:** https://drive.google.com/uc?export=download&id=1ZR-LFBBTlFoLU73LpMIAiYhMUoWGHui1
+**You can now accessed the pre-trained weights and download it using the links below:** 
+* ESRGAN x4: https://drive.google.com/uc?export=download&id=1eekSpOpnhXTjSAUmQgKjwpMKopfGgYSb
+* ESRGAN x8: https://drive.google.com/uc?export=download&id=1kqHDCaPoEgo5Ry6ScHvZkj-Mc8aVhJst
+* RealESRNet x4: https://drive.google.com/uc?export=download&id=13Mbg9GTfVngy2vHdYpvhWPIZt1z6vSha
+* RealESRNet x8: https://drive.google.com/file/d/1THIjS99LMkLT9sz03axTog6wZSUcDC6l/view?usp=drive_link
+
 
 # Citation in Publication:
 
