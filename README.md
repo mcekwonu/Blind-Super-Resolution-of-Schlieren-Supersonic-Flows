@@ -13,6 +13,7 @@ High resolution and low resolution training datasets are obtained from Bubble sh
 * ESRGAN x8: https://drive.google.com/uc?export=download&id=1kqHDCaPoEgo5Ry6ScHvZkj-Mc8aVhJst
 * RealESRGAN x4: https://drive.google.com/uc?export=download&id=13Mbg9GTfVngy2vHdYpvhWPIZt1z6vSha
 * RealESRGAN x8: https://drive.google.com/uc?export=download&id=1THIjS99LMkLT9sz03axTog6wZSUcDC6l
+* https://drive.google.com/drive/folders/1ZR-LFBBTlFoLU73LpMIAiYhMUoWGHui1?usp=sharing
 
 
 # Citation in Publication:
