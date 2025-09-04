@@ -8,13 +8,13 @@ Super resolution of low spatial resolution of schlieren imaging of supersonic fr
 
 High resolution and low resolution training datasets are obtained from Bubble shadowgraphy imaging of bubbly jet and used to train the ESRGAN and RealESRGAN networks.
 
-```latex
+
 **You can now accessed the pre-trained weights and download it using the links below:** 
 * ESRGAN x4: https://drive.google.com/uc?export=download&id=1eekSpOpnhXTjSAUmQgKjwpMKopfGgYSb
 * ESRGAN x8: https://drive.google.com/uc?export=download&id=1kqHDCaPoEgo5Ry6ScHvZkj-Mc8aVhJst
 * RealESRGAN x4: https://drive.google.com/uc?export=download&id=1KneffmRItuGwJu0SEtDSNK3mj-akofWd
 * RealESRGAN x8: https://drive.google.com/uc?export=download&id=1m1SEGjtEK3jlmIzrW73IkfBprYTP5Bxs
-```
+
 
 
 # Citation in Publication:
@@ -24,3 +24,5 @@ High resolution and low resolution training datasets are obtained from Bubble sh
 * M.C. Neves, J. Filgueiras, Z. Kokkinogenis, M.C.F. Silva, J.B.L.M. Campos, L.P. Reis,
 Enhancing experimental image quality in two-phase bubbly systems with super-resolution using generative adversarial networks,
 International Journal of Multiphase Flow, Volume 180, 2024, 104952, https://doi.org/10.1016/j.ijmultiphaseflow.2024.104952.
+
+* Wang, Xiangyu, Wang, Hui, Wang, Ning, Chen, Xuanren Liu, Xiang. Super-resolution reconstruction of background-oriented Schlieren displacement field based on the convolution neural network with the gradient loss function, Measurement Science and Technology, IOP Publishing, Vol. 35, 10, 106002, 2024, https://dx.doi.org/10.1088/1361-6501/ad4dc2
